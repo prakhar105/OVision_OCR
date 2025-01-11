@@ -97,4 +97,5 @@ We welcome contributions from the community! To contribute:
 This project is licensed under the MIT License. See the LICENSE file for details..
 
 Feel free to contribute by submitting issues or pull requests. Happy OCR-ing! 🚀
+
 Made with ❤️ by [Prakhar Awasthi](ttps://github.com/prakhar105)
