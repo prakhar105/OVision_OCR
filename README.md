@@ -1,6 +1,6 @@
 # OVision OCR
 ### Overview
-The OVision OCR application is a Gradio-based tool that extracts all data from  images similar documents using the Qwen2-VL-2B-OCR model. This solution leverages advanced image-text processing capabilities from the Hugging Face Transformers library.
+The OVision OCR application is a Gradio-based tool that extracts all data from  images documents using the Qwen2-VL-2B-OCR model. This solution leverages advanced image-text processing capabilities from the Hugging Face Transformers library.
 
 ### Features
 - Extracts textual information from images without missing any details.
