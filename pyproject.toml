@@ -1,0 +1,11 @@
+[project]
+name = "ovision-ocr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=3.36.1",
+    "pillow>=11.1.0",
+    "transformers>=4.48.0",
+]
