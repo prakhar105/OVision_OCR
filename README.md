@@ -25,7 +25,7 @@ pip install transformers torch torchvision Pillow gradio
 #### Hardware
 - A CUDA-enabled GPU is required for efficient processing.
 
-#### Installation
+## 📥Installation
 1. Clone or download the repository:
 ```
 git clone https://github.com/your-repo/ovision-ocr.git
